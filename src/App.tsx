@@ -52,7 +52,7 @@ function App() {
   return (
     <>
       <div className="mb-5 mt-10">
-        <h1>Tik Tac Toe</h1>
+        <h1>Tik - Tac - Toe</h1>
       </div>
       <section className="relative">
         <div>
